@@ -1,6 +1,6 @@
 👋 Hi, I am Hariyanto 
 👀 I’m interested in learning algorithmic trading and alpha research
-🌱 I am currently MSc in Financial Engineering student at WorldQuant University
+🌱 I am currently studying as MSc in Financial Engineering student at WorldQuant University
 💞️ I’m looking to collaborate on algorithmic trading and alpha research
 
 <!---
